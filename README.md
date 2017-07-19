@@ -12,3 +12,7 @@ node index.js
 firefox localhost:3000
 
 ```
+
+## image
+
+![image](cap.png)
